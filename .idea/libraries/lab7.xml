@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lab7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab7_server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab7_client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postgresql-42.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
